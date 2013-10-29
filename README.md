@@ -17,3 +17,5 @@ Favorite Octocat:
 
 CSCI 201 - Lab 10 with Albert Chin
 
+###New Features Under Development
+  + [FizzBuzz](http://www.codinghorror.com/blog/2007/02/why-cant-programmers-program.html)
